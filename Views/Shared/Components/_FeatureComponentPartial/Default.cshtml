@@ -1,19 +1,20 @@
-﻿<section id="home" class="s-home page-hero target-section" data-parallax="scroll" data-image-src="https://i.hizliresim.com/tu12otk.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+﻿@model List<Portfolio_Project_2.DAL.Entities.Feature>
+<section id="home" class="s-home page-hero target-section" data-parallax="scroll" data-image-src="https://i.hizliresim.com/tu12otk.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
 
 
     <div class="overlay"></div>
     <div class="shadow-overlay"></div>
 
+    @foreach(var item in Model)
+    {
     <div class="home-content">
 
         <div class="row home-content__main">
 
-            <h3>Merhaba</h3>
+            <h3>@item.Title</h3>
 
             <h1>
-                I am Jonathan Doe. <br>
-                I am a graphic & UI/UX <br>
-                designer based in Somewhere.
+                @item.Description
             </h1>
 
             <div class="home-content__buttons">
@@ -34,6 +35,8 @@
         </div>
 
     </div> <!-- end home-content -->
+        
+    }
 
     <ul class="home-social">
         <li>
