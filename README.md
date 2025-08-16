@@ -76,31 +76,23 @@ It provides two distinct user experiences: a **portfolio showcase for visitors**
 
 ## Screenshots
 
-1. **Portfolio Home Page**  
+
    <img width="1916" height="988" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a8eabc03-62e3-4ab6-bb3d-a32304fe40c4" />
 
 
-2. **About Section**  
+ 
    <img width="1916" height="988" alt="Screenshot_2" src="https://github.com/user-attachments/assets/fb538afc-821c-4a2a-bd57-36d925804e54" />
 
 
-3. **Portfolio Projects**  
-    <img width="1916" height="988" alt="Screenshot_3" src="https://github.com/user-attachments/assets/1338eb85-b505-4ea2-9774-d7c280cc3c8c" />
+   <img width="1916" height="988" alt="Screenshot_2" src="https://github.com/user-attachments/assets/f49657b5-37bd-427c-8d5f-daf270734ffb" />
 
 
-4. **Contact Page**  
    <img width="1916" height="988" alt="Screenshot_4" src="https://github.com/user-attachments/assets/b9c51eca-04c1-4e0e-866c-5e44d3b81471" />
 
-
-5. **Admin Dashboard**  
+ 
    <img width="1916" height="988" alt="Screenshot_5" src="https://github.com/user-attachments/assets/50f1bead-9d27-4c55-aa6c-112cdf18293a" />
 
 
-6. **Message Management**  
-    <img width="1916" height="988" alt="Screenshot_6" src="https://github.com/user-attachments/assets/ad3e5f42-d308-493f-9410-127b8de20da7" />
-
-
-7. **ToDo List Management**  
    <img width="1916" height="988" alt="Screenshot_7" src="https://github.com/user-attachments/assets/383058e5-2188-4e83-809d-824f22c09e3c" />
 
 
