@@ -77,7 +77,7 @@ It provides two distinct user experiences: a **portfolio showcase for visitors**
 ## Screenshots
 
 1. **Portfolio Home Page**  
-   <img width="1918" height="994" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a8eabc03-62e3-4ab6-bb3d-a32304fe40c4" />
+   <img width="1916" height="988" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a8eabc03-62e3-4ab6-bb3d-a32304fe40c4" />
 
 
 2. **About Section**  
